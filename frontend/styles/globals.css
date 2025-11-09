@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #0f0f17;
+  color: #eee;
+  font-family: system-ui, sans-serif;
+}
+
+input, button { }
+button { }
+.card { }
